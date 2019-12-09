@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](http://www.fanxingna.top:8081/hello-solo)
+* [世界，你好！](https://www.fanxingna.top/hello-solo)
 
 
 
